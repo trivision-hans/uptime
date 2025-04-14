@@ -17,11 +17,11 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: uptime
-  logoUrl: https://raw.githubusercontent.com/trivision-hans/uptime/master/assets/trivision_icon2.svg
-  faviconSvg: https://raw.githubusercontent.com/trivision-hans/uptime/master/assets/trivision_icon3.svg
-  name: Upptime
-  introTitle: "Trivision Uptime."
-  introMessage: "This page provides **real-time monitoring** for our critical services, powered by **[Upptime](https://upptime.js.org)**—an open-source uptime tracker built on GitHub.  "
+  logoUrl: https://raw.githubusercontent.com/trivision-hans/uptime/master/assets/trivision_icon.svg
+  icon: https://raw.githubusercontent.com/trivision-hans/uptime/master/assets/trivision_icon3.svg
+  name: Trivision uptime
+  introTitle: "Uptime monitoring."
+  introMessage: "This page provides real-time monitoring for our critical services, powered by **[Upptime](https://upptime.js.org)** —an open-source uptime tracker built on GitHub.  "
   navbar:
     - title: Status
       href: /
