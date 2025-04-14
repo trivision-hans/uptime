@@ -7,12 +7,10 @@ sites:
     url: https://pi.trivision.io
   - name: auth
     url: https://auth.pi.trivision.io/
-  - name: api
-    url: https://api.pi.trivision.io
-  - name: (health) pi
-    url: https://pi.trivision.io/api/health
   - name: (health) api
     url: https://api.pi.trivision.io/healthz
+  - name: (health) pi
+    url: https://pi.trivision.io/api/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
