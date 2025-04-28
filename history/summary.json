@@ -4,19 +4,19 @@
     "url": "https://pi.trivision.io",
     "icon": "https://icons.duckduckgo.com/ip3/pi.trivision.io.ico",
     "slug": "pi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1359,
-    "timeDay": 1905,
-    "timeWeek": 1337,
-    "timeMonth": 1359,
-    "timeYear": 1359,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "96.68%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 1353,
+    "timeDay": 1567,
+    "timeWeek": 1324,
+    "timeMonth": 1353,
+    "timeYear": 1353,
     "dailyMinutesDown": {
-      "2025-04-28": 0
+      "2025-04-28": 48
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://auth.pi.trivision.io/",
     "icon": "https://icons.duckduckgo.com/ip3/auth.pi.trivision.io.ico",
     "slug": "auth",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 285,
-    "timeDay": 417,
-    "timeWeek": 279,
-    "timeMonth": 285,
-    "timeYear": 285,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "96.66%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 284,
+    "timeDay": 339,
+    "timeWeek": 276,
+    "timeMonth": 284,
+    "timeYear": 284,
     "dailyMinutesDown": {
-      "2025-04-28": 0
+      "2025-04-28": 48
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://api.pi.trivision.io/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/api.pi.trivision.io.ico",
     "slug": "health-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "96.68%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 517,
-    "timeDay": 820,
-    "timeWeek": 552,
+    "timeDay": 664,
+    "timeWeek": 547,
     "timeMonth": 517,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2025-04-28": 0
+      "2025-04-28": 48
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://pi.trivision.io/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/pi.trivision.io.ico",
     "slug": "health-pi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 95,
-    "timeDay": 138,
-    "timeWeek": 93,
-    "timeMonth": 95,
-    "timeYear": 95,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "96.67%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 94,
+    "timeDay": 106,
+    "timeWeek": 91,
+    "timeMonth": 94,
+    "timeYear": 94,
     "dailyMinutesDown": {
-      "2025-04-28": 0
+      "2025-04-28": 48
     }
   }
 ]
