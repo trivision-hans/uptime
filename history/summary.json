@@ -4,9 +4,9 @@
     "url": "https://pi.trivision.io",
     "icon": "https://icons.duckduckgo.com/ip3/pi.trivision.io.ico",
     "slug": "pi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 1337,
     "timeMonth": 1359,
     "timeYear": 1359,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-28": 0
+    }
   },
   {
     "name": "auth",
     "url": "https://auth.pi.trivision.io/",
     "icon": "https://icons.duckduckgo.com/ip3/auth.pi.trivision.io.ico",
     "slug": "auth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 279,
     "timeMonth": 285,
     "timeYear": 285,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-28": 0
+    }
   },
   {
     "name": "(health) api",
     "url": "https://api.pi.trivision.io/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/api.pi.trivision.io.ico",
     "slug": "health-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,14 +55,16 @@
     "timeWeek": 552,
     "timeMonth": 517,
     "timeYear": 517,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-28": 0
+    }
   },
   {
     "name": "(health) pi",
     "url": "https://pi.trivision.io/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/pi.trivision.io.ico",
     "slug": "health-pi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +75,8 @@
     "timeWeek": 93,
     "timeMonth": 95,
     "timeYear": 95,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-28": 0
+    }
   }
 ]
