@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1313,
-    "timeDay": 793,
-    "timeWeek": 1271,
-    "timeMonth": 1361,
-    "timeYear": 1313,
+    "time": 1315,
+    "timeDay": 1185,
+    "timeWeek": 1309,
+    "timeMonth": 1368,
+    "timeYear": 1315,
     "dailyMinutesDown": {
       "2025-04-28": 48
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 286,
-    "timeDay": 213,
-    "timeWeek": 288,
-    "timeMonth": 308,
+    "timeDay": 294,
+    "timeWeek": 299,
+    "timeMonth": 310,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2025-04-28": 48
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.90%",
-    "time": 568,
-    "timeDay": 403,
-    "timeWeek": 533,
-    "timeMonth": 700,
-    "timeYear": 568,
+    "time": 569,
+    "timeDay": 526,
+    "timeWeek": 548,
+    "timeMonth": 698,
+    "timeYear": 569,
     "dailyMinutesDown": {
       "2025-07-09": 109,
       "2025-04-28": 48
@@ -72,12 +72,50 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 95,
-    "timeDay": 71,
-    "timeWeek": 96,
-    "timeMonth": 102,
+    "timeDay": 98,
+    "timeWeek": 99,
+    "timeMonth": 103,
     "timeYear": 95,
     "dailyMinutesDown": {
       "2025-04-28": 48
+    }
+  },
+  {
+    "name": "trivition.io",
+    "url": "https://trivision.io",
+    "icon": "https://icons.duckduckgo.com/ip3/trivision.io.ico",
+    "slug": "trivition-io",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1139,
+    "timeDay": 1139,
+    "timeWeek": 1139,
+    "timeMonth": 1139,
+    "timeYear": 1139,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "trivition.dk",
+    "url": "https://trivision.dk",
+    "icon": "https://icons.duckduckgo.com/ip3/trivision.dk.ico",
+    "slug": "trivition-dk",
+    "status": "down",
+    "uptime": "15.86%",
+    "uptimeDay": "15.86%",
+    "uptimeWeek": "15.86%",
+    "uptimeMonth": "15.86%",
+    "uptimeYear": "15.86%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-08-06": 0
     }
   }
 ]
