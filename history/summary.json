@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1316,
-    "timeDay": 1705,
-    "timeWeek": 1293,
-    "timeMonth": 1352,
-    "timeYear": 1316,
+    "time": 1315,
+    "timeDay": 1205,
+    "timeWeek": 1262,
+    "timeMonth": 1337,
+    "timeYear": 1315,
     "dailyMinutesDown": {
       "2025-04-28": 48
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 287,
-    "timeDay": 420,
-    "timeWeek": 293,
-    "timeMonth": 308,
+    "timeDay": 230,
+    "timeWeek": 288,
+    "timeMonth": 302,
     "timeYear": 287,
     "dailyMinutesDown": {
       "2025-04-28": 48
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.91%",
     "time": 568,
-    "timeDay": 776,
-    "timeWeek": 544,
-    "timeMonth": 698,
+    "timeDay": 504,
+    "timeWeek": 526,
+    "timeMonth": 692,
     "timeYear": 568,
     "dailyMinutesDown": {
       "2025-07-09": 109,
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 95,
-    "timeDay": 138,
-    "timeWeek": 97,
-    "timeMonth": 102,
+    "timeDay": 76,
+    "timeWeek": 96,
+    "timeMonth": 100,
     "timeYear": 95,
     "dailyMinutesDown": {
       "2025-04-28": 48
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1012,
-    "timeDay": 1090,
-    "timeWeek": 1012,
-    "timeMonth": 1012,
-    "timeYear": 1012,
+    "time": 919,
+    "timeDay": 641,
+    "timeWeek": 919,
+    "timeMonth": 919,
+    "timeYear": 919,
     "dailyMinutesDown": {}
   },
   {
@@ -104,16 +104,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/trivision.dk.ico",
     "slug": "trivition-dk",
     "status": "up",
-    "uptime": "90.20%",
+    "uptime": "93.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.20%",
-    "uptimeMonth": "90.20%",
-    "uptimeYear": "90.20%",
-    "time": 1965,
-    "timeDay": 1965,
-    "timeWeek": 1965,
-    "timeMonth": 1965,
-    "timeYear": 1965,
+    "uptimeWeek": "93.86%",
+    "uptimeMonth": "93.86%",
+    "uptimeYear": "93.86%",
+    "time": 1851,
+    "timeDay": 1624,
+    "timeWeek": 1851,
+    "timeMonth": 1851,
+    "timeYear": 1851,
     "dailyMinutesDown": {
       "2025-08-06": 235
     }
