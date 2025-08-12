@@ -12,9 +12,7 @@ sites:
   - name: (health) pi
     url: https://pi.trivision.io/api/health
   - name: trivition.io
-    url: https://trivision.io
-  - name: trivition.dk
-    url: https://trivision.dk
+    url: https://trivision.io/wp-json
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
