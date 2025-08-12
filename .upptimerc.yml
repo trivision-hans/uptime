@@ -11,7 +11,7 @@ sites:
     url: https://api.pi.trivision.io/healthz
   - name: (health) pi
     url: https://pi.trivision.io/api/health
-  - name: trivition.io
+  - name: trivision.io
     url: https://trivision.io/wp-json
 
 status-website:
