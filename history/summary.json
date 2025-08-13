@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1324,
-    "timeDay": 1468,
-    "timeWeek": 1448,
+    "timeDay": 989,
+    "timeWeek": 1433,
     "timeMonth": 1385,
     "timeYear": 1324,
     "dailyMinutesDown": {
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 290,
-    "timeDay": 334,
-    "timeWeek": 334,
+    "timeDay": 206,
+    "timeWeek": 330,
     "timeMonth": 313,
     "timeYear": 290,
     "dailyMinutesDown": {
@@ -51,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 569,
-    "timeDay": 520,
-    "timeWeek": 582,
+    "timeDay": 319,
+    "timeWeek": 575,
     "timeMonth": 563,
     "timeYear": 569,
     "dailyMinutesDown": {
@@ -72,8 +72,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 96,
-    "timeDay": 111,
-    "timeWeek": 111,
+    "timeDay": 70,
+    "timeWeek": 109,
     "timeMonth": 104,
     "timeYear": 96,
     "dailyMinutesDown": {
@@ -85,17 +85,19 @@
     "url": "https://trivision.io/wp-json",
     "icon": "https://icons.duckduckgo.com/ip3/trivision.io.ico",
     "slug": "trivision-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 661,
-    "timeDay": 661,
-    "timeWeek": 661,
-    "timeMonth": 661,
-    "timeYear": 661,
-    "dailyMinutesDown": {}
+    "time": 645,
+    "timeDay": 564,
+    "timeWeek": 645,
+    "timeMonth": 645,
+    "timeYear": 645,
+    "dailyMinutesDown": {
+      "2025-08-13": 0
+    }
   }
 ]
