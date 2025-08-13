@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1324,
-    "timeDay": 989,
-    "timeWeek": 1433,
-    "timeMonth": 1385,
-    "timeYear": 1324,
+    "time": 1321,
+    "timeDay": 953,
+    "timeWeek": 1385,
+    "timeMonth": 1373,
+    "timeYear": 1321,
     "dailyMinutesDown": {
       "2025-04-28": 48
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 290,
-    "timeDay": 206,
-    "timeWeek": 330,
-    "timeMonth": 313,
-    "timeYear": 290,
+    "time": 289,
+    "timeDay": 213,
+    "timeWeek": 318,
+    "timeMonth": 310,
+    "timeYear": 289,
     "dailyMinutesDown": {
       "2025-04-28": 48
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 569,
-    "timeDay": 319,
-    "timeWeek": 575,
-    "timeMonth": 563,
+    "timeDay": 485,
+    "timeWeek": 566,
+    "timeMonth": 560,
     "timeYear": 569,
     "dailyMinutesDown": {
       "2025-07-09": 109,
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 96,
-    "timeDay": 70,
-    "timeWeek": 109,
-    "timeMonth": 104,
+    "timeDay": 73,
+    "timeWeek": 105,
+    "timeMonth": 103,
     "timeYear": 96,
     "dailyMinutesDown": {
       "2025-04-28": 48
@@ -85,19 +85,19 @@
     "url": "https://trivision.io/wp-json",
     "icon": "https://icons.duckduckgo.com/ip3/trivision.io.ico",
     "slug": "trivision-io",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 645,
-    "timeDay": 564,
-    "timeWeek": 645,
-    "timeMonth": 645,
-    "timeYear": 645,
+    "status": "up",
+    "uptime": "99.13%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.13%",
+    "time": 594,
+    "timeDay": 526,
+    "timeWeek": 594,
+    "timeMonth": 594,
+    "timeYear": 594,
     "dailyMinutesDown": {
-      "2025-08-13": 0
+      "2025-08-13": 21
     }
   }
 ]
