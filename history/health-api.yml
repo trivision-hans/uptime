@@ -1,7 +1,7 @@
 url: https://api.pi.trivision.io/healthz
 status: up
 code: 200
-responseTime: 399
-lastUpdated: 2026-05-04T23:41:25.301Z
+responseTime: 335
+lastUpdated: 2026-05-05T23:37:54.902Z
 startTime: 2025-04-14T07:07:51.155Z
 generator: Upptime <https://github.com/upptime/upptime>
